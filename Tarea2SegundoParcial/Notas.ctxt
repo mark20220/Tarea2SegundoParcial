@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Notas
+comment0.text=\r\n\ creamos\ un\ arreglo\ de\ tipo\ entero\ llamado\ Nota\r\n\ \r\n\ Marcelo\ Cardozo\ Cadima\r\n\ 23/05/2021\r\n
+comment1.params=Cant
+comment1.target=Notas(int)
+comment2.params=Num
+comment2.target=java.lang.String\ Llenar(int)
+comment3.params=
+comment3.target=int\ Promedio()
+numComments=4

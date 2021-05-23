@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Estudiantes
+comment0.text=\r\n\ Organizando\ notas\r\n\r\n\ Crea\ una\ clase\ que\ te\ permita\ almacenar\ la\ nota\ de\ los\ estudiantes\r\n\ de\ un\ aula.\r\n\ La\ cantidad\ de\ estudiantes\ que\ tiene\ el\ aula\ debe\ ser\ ingresada\r\n\ por\ par\u00E1metro\ mediante\ el\ constructor.\r\n\ La\ clase\ debe\ permitirte\:\r\n\ \u2022\ Anadir\ notas.\r\n\ \u2022\ Sacar\ el\ promedio\ de\ todas\ las\ notas.\r\n\ \u2022\ Sacar\ el\ promedio\ de\ las\ notas\ aprobadas\ (>51).\r\n\ \u2022\ Indicar\ la\ cantidad\ de\ reprobados.\r\n\ \u2022\ Indicar\ la\ cantidad\ de\ aprobados.\r\n\ \u2022\ Indicar\ la\ nota\ mas\ alta.\r\n\ \r\n\ Marcelo\ Cardozo\ Cadima\ \r\n\ 23/05/2021\r\n
+comment1.params=Cant
+comment1.target=Estudiantes(int)
+comment2.params=Otra
+comment2.target=void\ Agregar(Notas)
+comment3.params=
+comment3.target=void\ promedio()
+comment4.params=
+comment4.target=int[]\ Promedio()
+comment5.params=
+comment5.target=int\ PromedioAprobados()
+comment6.params=
+comment6.target=int\ NumeroAprobados()
+comment7.params=
+comment7.target=int\ NumeroReprobados()
+numComments=8
